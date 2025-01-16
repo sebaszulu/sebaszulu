@@ -9,6 +9,6 @@ I'm a bachellor's degree in Public Accountant, highly interested in software dev
 - 👯 I am looking to collaborate on projects that allow me to grow in IT
 - 📫 How to reach me: <sebastian_zuluagaal@soy.sena.edu.co>
 
-## Stars
+## GitHub Stats
 
-![GitHub User's stars](https://img.shields.io/github/stars/SebasZulu)
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=SebasZulu&show_icons=true&theme=radical" />
