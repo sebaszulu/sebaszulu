@@ -1,0 +1,8 @@
+# Configuración para recent-activity
+username: SebasZulu
+events:
+  - PushEvent
+  - IssuesEvent
+  - PullRequestEvent
+output:
+  include: true
