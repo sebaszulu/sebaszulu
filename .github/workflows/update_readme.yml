@@ -17,7 +17,7 @@ jobs:
       - name: Update recent activity in README
         uses: Readme-Workflows/recent-activity@v2.4.1
         with:
-          config-path: .github/recent-activity.config.yml
+          GH_USERNAME: SebasZulu
+          CONFIG_FILE: .github/recent-activity.config.yml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
