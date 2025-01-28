@@ -12,3 +12,9 @@ I'm a bachellor's degree in Public Accountant, highly interested in software dev
 ## GitHub Stats
 
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=SebasZulu&show_icons=true&theme=radical" />
+
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity>
+
+<!--END_SECTION:activity>
