@@ -16,4 +16,12 @@ I'm a bachellor's degree in Public Accountant, highly interested in software dev
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [SebasZulu/sebaszulu](https://github.com/SebasZulu/sebaszulu)<br>
+2. ⬆️ Pushed 1 commit(s) to [SebasZulu/sebaszulu](https://github.com/SebasZulu/sebaszulu)<br>
+3. ⬆️ Pushed 1 commit(s) to [SebasZulu/sebaszulu](https://github.com/SebasZulu/sebaszulu)<br>
+4. ⬆️ Pushed 1 commit(s) to [SebasZulu/sebaszulu](https://github.com/SebasZulu/sebaszulu)<br>
+5. ⬆️ Pushed 1 commit(s) to [SebasZulu/sebaszulu](https://github.com/SebasZulu/sebaszulu)<br>
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Wednesday, January 29th, 2025, 2:27:52 AM
+<!--RECENT_ACTIVITY:last_update_end-->
