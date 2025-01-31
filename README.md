@@ -16,12 +16,12 @@ I'm a bachellor's degree in Public Accountant, highly interested in software dev
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
-2. 🎉 Merged PR [#2](https://github.com/sebaszulu/miTercerRepo/pull/2) in [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
-3. 💪 Opened PR [#2](https://github.com/sebaszulu/miTercerRepo/pull/2) in [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
-4. ⬆️ Pushed 1 commit(s) to [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
-5. ❗️ Opened issue [#1](https://github.com/sebaszulu/miTercerRepo/issues/1) in [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
+1. ⬆️ Pushed 3 commit(s) to [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
+2. 🎉 Merged PR [#3](https://github.com/sebaszulu/miTercerRepo/pull/3) in [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
+3. 💪 Opened PR [#3](https://github.com/sebaszulu/miTercerRepo/pull/3) in [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
+4. ⬆️ Pushed 2 commit(s) to [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
+5. ⬆️ Pushed 2 commit(s) to [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 30th, 2025, 12:19:41 PM
+Last Updated: Friday, January 31st, 2025, 12:50:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
