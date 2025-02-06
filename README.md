@@ -16,12 +16,12 @@ I'm a bachellor's degree in Public Accountant, highly interested in software dev
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
-2. 🎉 Merged PR [#3](https://github.com/sebaszulu/miTercerRepo/pull/3) in [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
-3. 💪 Opened PR [#3](https://github.com/sebaszulu/miTercerRepo/pull/3) in [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
-4. ⬆️ Pushed 2 commit(s) to [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
+1. 🔱 Forked [sebaszulu/guia-entrevistas-de-programacion](https://github.com/sebaszulu/guia-entrevistas-de-programacion) from [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion)<br>
+2. ⬆️ Pushed 3 commit(s) to [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
+3. 🎉 Merged PR [#3](https://github.com/sebaszulu/miTercerRepo/pull/3) in [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
+4. 💪 Opened PR [#3](https://github.com/sebaszulu/miTercerRepo/pull/3) in [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
 5. ⬆️ Pushed 2 commit(s) to [sebaszulu/miTercerRepo](https://github.com/sebaszulu/miTercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 5th, 2025, 12:20:06 PM
+Last Updated: Thursday, February 6th, 2025, 12:51:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
