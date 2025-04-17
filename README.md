@@ -16,9 +16,7 @@ I'm a bachellor's degree in Public Accountant, highly interested in software dev
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [sebaszulu/hyd_app](https://github.com/sebaszulu/hyd_app)<br>
-2. ⬆️ Pushed 3 commit(s) to [sebaszulu/hyd_app](https://github.com/sebaszulu/hyd_app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 17th, 2025, 12:56:06 AM
+Last Updated: Thursday, April 17th, 2025, 12:22:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
