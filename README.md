@@ -16,7 +16,10 @@ I'm a bachellor's degree in Public Accountant, highly interested in software dev
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [sebaszulu/hotel-capri-backend](https://github.com/sebaszulu/hotel-capri-backend)<br>
+2. 📔 Created new repository [sebaszulu/hotel-capri-frontend](https://github.com/sebaszulu/hotel-capri-frontend)<br>
+3. 📔 Created new repository [sebaszulu/hotel-capri-backend](https://github.com/sebaszulu/hotel-capri-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 24th, 2025, 12:21:13 PM
+Last Updated: Monday, August 25th, 2025, 12:59:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
