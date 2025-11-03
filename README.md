@@ -16,8 +16,9 @@ I'm a bachellor's degree in Public Accountant, highly interested in software dev
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fastapi/fastapi](https://github.com/fastapi/fastapi)<br>
+1. ⭐ Starred [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)<br>
+2. ⭐ Starred [fastapi/fastapi](https://github.com/fastapi/fastapi)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 2nd, 2025, 12:20:41 PM
+Last Updated: Monday, November 3rd, 2025, 1:01:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
